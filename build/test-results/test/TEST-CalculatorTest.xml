@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-08T22:01:07" hostname="Collins-MBP.attlocal.net" time="0.011">
+  <properties/>
+  <testcase name="add()" classname="CalculatorTest" time="0.011"/>
+  <system-out><![CDATA[The sum is 6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
